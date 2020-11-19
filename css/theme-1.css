@@ -4270,6 +4270,28 @@ footer.short-2 .contact-action:hover {
   .video-wrapper iframe {
     display: none;
   }
+  .skill-bars h3.lead{
+    margin-bottom:5px;
+  }
+  .skill-bars h1.lead{
+    margin-bottom:5px;
+  }
+  .fa{
+    font-size: 25px;
+    margin: 5px;
+    color: black;
+    background-color:white;
+    padding: 15px;
+    border-radius: 50%;
+  }
+  .skill-bars img{
+    margin-top:37.5px;
+  }
+  img.skill{
+    height: 65px;
+    width: 65px;
+  }
+
 }
 .fullwidth-video iframe {
   height: 550px;
@@ -4289,6 +4311,7 @@ footer.short-2 .contact-action:hover {
     height: 270px;
     max-width: 100%;
   }
+  
 }
 .boxed-layout {
   background: #eee;
@@ -4415,6 +4438,7 @@ footer.short-2 .contact-action:hover {
     margin-top: 24px;
     top: 24px;
   }
+  
 }
 .no-loader .loader {
   display: none !important;
